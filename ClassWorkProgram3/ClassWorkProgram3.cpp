@@ -10,7 +10,7 @@ void multiplyMatrix(int** matrix, int rows, int cols, int scalar);
 
 int main()
 {
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "RU");
 
     int rows = 2;
     int cols = 2;
